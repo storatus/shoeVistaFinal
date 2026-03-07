@@ -1,4 +1,4 @@
-const sampleProducts = [
+export const sampleProducts = [
     {
         img: "https://placeholder.pagebee.io/api/random/400/300",
         brand: "Nike",
